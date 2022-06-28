@@ -6,7 +6,6 @@ import io.cucumber.java.en.When;
 
 public class EatingCucumber {
 
-
     @Given("John is hungry")
     public void john_is_hungry() {
         System.out.println("It is from Given");
