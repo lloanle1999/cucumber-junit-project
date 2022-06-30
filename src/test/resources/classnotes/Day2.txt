@@ -18,7 +18,7 @@ Upcoming topics:  #4- Background
 
 -----------------------------------------------------------------------------------
 
-First project:  Maven + Selenium + TestNG
+First project:  Maven(build) + Selenium(Automation tool-driver) + TestNG(testing tool)
 
 - src
         - main
@@ -27,6 +27,7 @@ First project:  Maven + Selenium + TestNG
                 - com.cydeo
                     - tests
                         - base
+                          -TestBase
                         - tests (rest of our test packages)
                     - utilities
                         - Driver
